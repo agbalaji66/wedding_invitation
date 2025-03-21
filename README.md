@@ -1,7 +1,4 @@
-# Wedding Landing Page - Daeng Sherly Menikah
-
-
-
+# Wedding Landing Page
 # Section/Feature
 - Main Info
 - Countdown to D-Day
